@@ -1,0 +1,26 @@
+{"level":"info","message":"/logout-all-devices - {}","service":"request-logging"}
+{"level":"info","message":"/logout-all-devices - {}","service":"request-logging"}
+{"level":"info","message":"/logout-all-devices - {}","service":"request-logging"}
+{"level":"info","message":"GET /logout-all-devices - {}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":73362}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"GET /logout-all-devices - {}","service":"request-logging"}
+{"level":"info","message":"POST /verify - {\"otp\":733629}","service":"request-logging"}
+{"level":"info","message":"GET /api-docs - {}","service":"request-logging"}
+{"level":"info","message":"GET / - {}","service":"request-logging"}
+{"level":"info","message":"GET / - {}","service":"request-logging"}
+{"level":"info","message":"GET / - {}","service":"request-logging"}
+{"level":"info","message":"GET / - {}","service":"request-logging"}
+
+{"level":"info","message":"GET /api-docs/ - {}","service":"request-logging"}
+{"level":"info","message":"GET /favicon.ico - {}","service":"request-logging"}
+{"level":"info","message":"GET /api-docs/ - {}","service":"request-logging"}
+{"level":"info","message":"GET /api-docs/ - {}","service":"request-logging"}
+{"level":"info","message":"GET /api-docs/ - {}","service":"request-logging"}
